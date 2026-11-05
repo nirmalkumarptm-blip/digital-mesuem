@@ -1,0 +1,542 @@
+[
+ {
+  "q": "Who built the Brihadisvara Temple?",
+  "o": [
+   "Rajaraja I",
+   "Rajendra I",
+   "Parantaka I",
+   "Aditya I"
+  ],
+  "a": 0,
+  "l": "e",
+  "tq": "பிரகதீஸ்வரர் கோயிலைக் கட்டியவர் யார்?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் இராஜேந்திரன்",
+   "முதலாம் பராந்தகன்",
+   "முதலாம் ஆதித்தன்"
+  ]
+ },
+ {
+  "q": "Which capital did Rajendra I found?",
+  "o": [
+   "Madurai",
+   "Gangaikonda Cholapuram",
+   "Kanchipuram",
+   "Anuradhapura"
+  ],
+  "a": 1,
+  "l": "e",
+  "tq": "முதலாம் இராஜேந்திரன் நிறுவிய தலைநகரம் எது?",
+  "to": [
+   "மதுரை",
+   "கங்கைகொண்ட சோழபுரம்",
+   "காஞ்சிபுரம்",
+   "அனுராதபுரம்"
+  ]
+ },
+ {
+  "q": "Which river is the Chola heartland?",
+  "o": [
+   "Kaveri",
+   "Ganges",
+   "Godavari",
+   "Krishna"
+  ],
+  "a": 0,
+  "l": "e",
+  "tq": "சோழர்களின் மையப் பகுதியாக இருந்த ஆறு எது?",
+  "to": [
+   "காவிரி",
+   "கங்கை",
+   "கோதாவரி",
+   "கிருஷ்ணா"
+  ]
+ },
+ {
+  "q": "Brihadisvara was completed about?",
+  "o": [
+   "c. 910",
+   "c. 1010",
+   "c. 1110",
+   "c. 1210"
+  ],
+  "a": 1,
+  "l": "e",
+  "tq": "பிரகதீஸ்வரர் கோயில் ஏறத்தாழ எப்போது நிறைவுற்றது?",
+  "to": [
+   "சுமார் 910",
+   "சுமார் 1010",
+   "சுமார் 1110",
+   "சுமார் 1210"
+  ]
+ },
+ {
+  "q": "Chola bronzes use which method?",
+  "o": [
+   "Lost-wax casting",
+   "Sand pressing",
+   "Welding",
+   "Electroplating"
+  ],
+  "a": 0,
+  "l": "e",
+  "tq": "சோழர் வெண்கலச் சிலைகள் எந்த முறையில் செய்யப்பட்டன?",
+  "to": [
+   "மெழுகு வார்ப்பு முறை",
+   "மணல் அழுத்தல்",
+   "பற்றவைப்பு",
+   "மின்முலாம் பூசுதல்"
+  ]
+ },
+ {
+  "q": "Where is Airavatesvara Temple?",
+  "o": [
+   "Darasuram",
+   "Hampi",
+   "Madurai",
+   "Konark"
+  ],
+  "a": 0,
+  "l": "m",
+  "tq": "ஐராவதேசுவரர் கோயில் எங்குள்ளது?",
+  "to": [
+   "தாராசுரம்",
+   "ஹம்பி",
+   "மதுரை",
+   "கோனார்க்"
+  ]
+ },
+ {
+  "q": "Rajendra I raided which kingdom overseas c. 1025?",
+  "o": [
+   "Srivijaya",
+   "Japan",
+   "Rome",
+   "Egypt"
+  ],
+  "a": 0,
+  "l": "m",
+  "tq": "சுமார் 1025-இல் முதலாம் இராஜேந்திரன் கடல் கடந்து தாக்கிய அரசு எது?",
+  "to": [
+   "ஸ்ரீவிஜயம்",
+   "ஜப்பான்",
+   "ரோம்",
+   "எகிப்து"
+  ]
+ },
+ {
+  "q": "Which battle killed Rajadhiraja I?",
+  "o": [
+   "Takkolam",
+   "Koppam",
+   "Plassey",
+   "Talikota"
+  ],
+  "a": 1,
+  "l": "h",
+  "tq": "முதலாம் இராஜாதிராஜன் எந்தப் போரில் உயிர்நீத்தார்?",
+  "to": [
+   "தக்கோலம்",
+   "கொப்பம்",
+   "பிளாசி",
+   "தாளிகோட்டை"
+  ]
+ },
+ {
+  "q": "Kulothunga I is known for abolishing what?",
+  "o": [
+   "Tolls",
+   "Temples",
+   "Ports",
+   "Language"
+  ],
+  "a": 0,
+  "l": "h",
+  "tq": "முதலாம் குலோத்துங்கன் எதை நீக்கியதற்காக அறியப்படுகிறார்?",
+  "to": [
+   "சுங்கம்",
+   "கோயில்கள்",
+   "துறைமுகங்கள்",
+   "மொழி"
+  ]
+ },
+ {
+  "q": "Uttaramerur inscriptions describe?",
+  "o": [
+   "Village assemblies",
+   "Naval routes",
+   "Poetry",
+   "Coins"
+  ],
+  "a": 0,
+  "l": "h",
+  "tq": "உத்தரமேரூர் கல்வெட்டுகள் எதை விவரிக்கின்றன?",
+  "to": [
+   "ஊர்ச்சபைகள்",
+   "கடல் வழிகள்",
+   "கவிதை",
+   "நாணயங்கள்"
+  ]
+ },
+ {
+  "q": "Aditya I defeated a king of which dynasty?",
+  "o": [
+   "Pandya",
+   "Pallava",
+   "Chera",
+   "Hoysala"
+  ],
+  "a": 1,
+  "l": "m",
+  "tq": "முதலாம் ஆதித்தன் எந்த வம்சத்தின் அரசனை வென்றார்?",
+  "to": [
+   "பாண்டியர்",
+   "பல்லவர்",
+   "சேரர்",
+   "ஹொய்சளர்"
+  ]
+ },
+ {
+  "q": "Takkolam was a Chola defeat by whom?",
+  "o": [
+   "Rashtrakutas",
+   "Pandyas",
+   "Mauryas",
+   "Portuguese"
+  ],
+  "a": 0,
+  "l": "m",
+  "tq": "தக்கோலத்தில் சோழரைத் தோற்கடித்தவர்கள் யார்?",
+  "to": [
+   "இராஷ்டிரகூடர்",
+   "பாண்டியர்",
+   "மௌரியர்",
+   "போர்த்துகீசியர்"
+  ]
+ },
+ {
+  "q": "The three Chola temples listed by UNESCO are called?",
+  "o": [
+   "Hill Forts of India",
+   "Great Living Chola Temples",
+   "Hampi Group",
+   "Sun Temples"
+  ],
+  "a": 1,
+  "l": "m",
+  "tq": "யுனெஸ்கோ பட்டியலிட்ட மூன்று சோழர் கோயில்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+  "to": [
+   "இந்தியாவின் மலைக்கோட்டைகள்",
+   "மாபெரும் வாழும் சோழர் கோயில்கள்",
+   "ஹம்பி நினைவுச்சின்னங்கள்",
+   "சூரியக் கோயில்கள்"
+  ]
+ },
+ {
+  "q": "Parantaka I took Madurai from which dynasty?",
+  "o": [
+   "Pandyas",
+   "Pallavas",
+   "Cheras",
+   "Kakatiyas"
+  ],
+  "a": 0,
+  "l": "m",
+  "tq": "முதலாம் பராந்தகன் மதுரையை எந்த வம்சத்திடமிருந்து கைப்பற்றினார்?",
+  "to": [
+   "பாண்டியர்",
+   "பல்லவர்",
+   "சேரர்",
+   "காகதீயர்"
+  ]
+ },
+ {
+  "q": "Whose inscriptions mention a land survey in 1086?",
+  "o": [
+   "Rajaraja I",
+   "Rajendra I",
+   "Kulothunga I",
+   "Parantaka I"
+  ],
+  "a": 2,
+  "l": "h",
+  "tq": "1086-இல் நில அளவை நடந்ததாகக் கூறும் கல்வெட்டுகள் யாருடையவை?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் இராஜேந்திரன்",
+   "முதலாம் குலோத்துங்கன்",
+   "முதலாம் பராந்தகன்"
+  ]
+ },
+ {
+  "q": "Kalingattuparani celebrates a campaign of whose general?",
+  "o": [
+   "Rajaraja I",
+   "Rajendra I",
+   "Kulothunga I",
+   "Vikrama Chola"
+  ],
+  "a": 2,
+  "l": "h",
+  "tq": "கலிங்கத்துப்பரணி யாருடைய படைத்தலைவரின் படையெடுப்பைக் கொண்டாடுகிறது?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் இராஜேந்திரன்",
+   "முதலாம் குலோத்துங்கன்",
+   "விக்கிரம சோழன்"
+  ]
+ },
+ {
+  "q": "The Leiden copper plates concern a Buddhist vihara at which port?",
+  "o": [
+   "Nagapattinam",
+   "Mamallapuram",
+   "Kaveripattinam",
+   "Tuticorin"
+  ],
+  "a": 0,
+  "l": "h",
+  "tq": "லெய்டன் செப்பேடுகள் எந்தத் துறைமுகத்திலுள்ள பௌத்த விகாரை பற்றியவை?",
+  "to": [
+   "நாகப்பட்டினம்",
+   "மாமல்லபுரம்",
+   "காவிரிப்பூம்பட்டினம்",
+   "தூத்துக்குடி"
+  ]
+ },
+ {
+  "q": "Nataraja depicts Shiva as what?",
+  "o": [
+   "Lord of dance",
+   "God of rain",
+   "Guardian of cities",
+   "Lord of the sea"
+  ],
+  "a": 0,
+  "l": "e",
+  "tq": "நடராஜர் சிவனை எவ்வடிவில் காட்டுகிறார்?",
+  "to": [
+   "நடனத்தின் தலைவன்",
+   "மழையின் கடவுள்",
+   "நகரங்களின் காவலன்",
+   "கடலின் தலைவன்"
+  ]
+ },
+ {
+  "q": "In which direction did Rajendra I’s Ganges expedition head?",
+  "o": [
+   "East",
+   "North",
+   "West",
+   "South"
+  ],
+  "a": 1,
+  "l": "e",
+  "tq": "முதலாம் இராஜேந்திரனின் கங்கைப் படையெடுப்பு எத்திசையில் சென்றது?",
+  "to": [
+   "கிழக்கு",
+   "வடக்கு",
+   "மேற்கு",
+   "தெற்கு"
+  ]
+ },
+ {
+  "q": "Which king took the title Gangaikonda Chola?",
+  "o": [
+   "Rajaraja I",
+   "Rajendra I",
+   "Parantaka I",
+   "Kulothunga I"
+  ],
+  "a": 1,
+  "l": "e",
+  "tq": "கங்கைகொண்ட சோழன் என்ற பட்டம் பெற்ற அரசர் யார்?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் இராஜேந்திரன்",
+   "முதலாம் பராந்தகன்",
+   "முதலாம் குலோத்துங்கன்"
+  ]
+ },
+ {
+  "q": "Which animal was the Chola emblem?",
+  "o": [
+   "Lion",
+   "Elephant",
+   "Tiger",
+   "Fish"
+  ],
+  "a": 2,
+  "l": "e",
+  "tq": "சோழர்களின் சின்னமாக இருந்த விலங்கு எது?",
+  "to": [
+   "சிங்கம்",
+   "யானை",
+   "புலி",
+   "மீன்"
+  ]
+ },
+ {
+  "q": "Most Chola temple inscriptions in the Tamil country are in which language?",
+  "o": [
+   "Prakrit",
+   "Persian",
+   "Tamil",
+   "Telugu"
+  ],
+  "a": 2,
+  "l": "e",
+  "tq": "தமிழகத்திலுள்ள பெரும்பாலான சோழர் கோயில் கல்வெட்டுகள் எந்த மொழியில் உள்ளன?",
+  "to": [
+   "பிராகிருதம்",
+   "பாரசீகம்",
+   "தமிழ்",
+   "தெலுங்கு"
+  ]
+ },
+ {
+  "q": "Which king is credited with the Airavatesvara Temple at Darasuram?",
+  "o": [
+   "Rajaraja I",
+   "Rajendra I",
+   "Rajaraja II",
+   "Vijayalaya"
+  ],
+  "a": 2,
+  "l": "m",
+  "tq": "தாராசுரம் ஐராவதேசுவரர் கோயிலைக் கட்டியவராகக் கருதப்படும் அரசர் யார்?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் இராஜேந்திரன்",
+   "இரண்டாம் இராஜராஜன்",
+   "விஜயாலயன்"
+  ]
+ },
+ {
+  "q": "The Periya Puranam is traditionally placed in whose reign?",
+  "o": [
+   "Rajaraja I",
+   "Kulothunga II",
+   "Parantaka I",
+   "Rajendra I"
+  ],
+  "a": 1,
+  "l": "m",
+  "tq": "பெரியபுராணம் மரபுப்படி யாருடைய ஆட்சிக் காலத்தில் இயற்றப்பட்டது?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "இரண்டாம் குலோத்துங்கன்",
+   "முதலாம் பராந்தகன்",
+   "முதலாம் இராஜேந்திரன்"
+  ]
+ },
+ {
+  "q": "Gangaikonda Cholapuram was founded to mark which campaign?",
+  "o": [
+   "Sri Lanka campaign",
+   "Ganges campaign",
+   "Kalinga campaign",
+   "Chalukya campaign"
+  ],
+  "a": 1,
+  "l": "m",
+  "tq": "கங்கைகொண்ட சோழபுரம் எந்தப் படையெடுப்பின் நினைவாக நிறுவப்பட்டது?",
+  "to": [
+   "இலங்கைப் படையெடுப்பு",
+   "கங்கைப் படையெடுப்பு",
+   "கலிங்கப் படையெடுப்பு",
+   "சாளுக்கியப் படையெடுப்பு"
+  ]
+ },
+ {
+  "q": "Which dynasty replaced the Cholas as the main power in the 13th-century south?",
+  "o": [
+   "Cheras",
+   "Pandyas",
+   "Pallavas",
+   "Satavahanas"
+  ],
+  "a": 1,
+  "l": "m",
+  "tq": "13-ஆம் நூற்றாண்டில் தெற்கில் சோழர்களுக்குப் பதிலாக முதன்மை சக்தியாக உயர்ந்த வம்சம் எது?",
+  "to": [
+   "சேரர்",
+   "பாண்டியர்",
+   "பல்லவர்",
+   "சாதவாகனர்"
+  ]
+ },
+ {
+  "q": "Which Chola king is recorded as taking the Sinhalese king Mahinda V c. 1017?",
+  "o": [
+   "Rajaraja I",
+   "Rajendra I",
+   "Rajadhiraja I",
+   "Kulothunga I"
+  ],
+  "a": 1,
+  "l": "h",
+  "tq": "சுமார் 1017-இல் சிங்கள அரசன் ஐந்தாம் மகிந்தனைக் கைப்பற்றியதாகப் பதிவு செய்யப்பட்ட சோழ அரசர் யார்?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் இராஜேந்திரன்",
+   "முதலாம் இராஜாதிராஜன்",
+   "முதலாம் குலோத்துங்கன்"
+  ]
+ },
+ {
+  "q": "The Thiruvalangadu copper plates belong to whose reign?",
+  "o": [
+   "Rajaraja I",
+   "Kulothunga I",
+   "Parantaka I",
+   "Rajendra I"
+  ],
+  "a": 3,
+  "l": "h",
+  "tq": "திருவாலங்காட்டுச் செப்பேடுகள் யாருடைய ஆட்சிக் காலத்தைச் சேர்ந்தவை?",
+  "to": [
+   "முதலாம் இராஜராஜன்",
+   "முதலாம் குலோத்துங்கன்",
+   "முதலாம் பராந்தகன்",
+   "முதலாம் இராஜேந்திரன்"
+  ]
+ },
+ {
+  "q": "Who wrote the Kalingattuparani?",
+  "o": [
+   "Jayamkondar",
+   "Kamban",
+   "Sekkizhar",
+   "Ottakkuttan"
+  ],
+  "a": 0,
+  "l": "h",
+  "tq": "கலிங்கத்துப்பரணியை இயற்றியவர் யார்?",
+  "to": [
+   "செயங்கொண்டார்",
+   "கம்பர்",
+   "சேக்கிழார்",
+   "ஒட்டக்கூத்தர்"
+  ]
+ },
+ {
+  "q": "Takkolam, a Chola defeat, took place about when?",
+  "o": [
+   "c. 949",
+   "c. 1010",
+   "1054",
+   "1070"
+  ],
+  "a": 0,
+  "l": "h",
+  "tq": "சோழர் தோல்வியடைந்த தக்கோலப் போர் ஏறத்தாழ எப்போது நடந்தது?",
+  "to": [
+   "சுமார் 949",
+   "சுமார் 1010",
+   "1054",
+   "1070"
+  ]
+ }
+]

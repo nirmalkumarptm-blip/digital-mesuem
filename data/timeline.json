@@ -1,0 +1,147 @@
+{
+ "events": [
+  {
+   "id": "e1",
+   "d": "c. 850",
+   "n": "Vijayalaya takes Thanjavur",
+   "b": "Traditional start of the medieval Chola revival.",
+   "td": "சுமார் 850",
+   "tn": "விஜயாலயன் தஞ்சையைக் கைப்பற்றுதல்",
+   "tb": "இடைக்கால சோழ எழுச்சியின் பாரம்பரியத் தொடக்கம்."
+  },
+  {
+   "id": "e2",
+   "d": "c. 903",
+   "n": "Aditya I defeats the Pallava Aparajita",
+   "b": "Ends effective Pallava dominance.",
+   "td": "சுமார் 903",
+   "tn": "முதலாம் ஆதித்தர் பல்லவ அபராஜிதனை வென்றார்",
+   "tb": "பல்லவர் ஆதிக்கம் முடிவுக்கு வந்தது."
+  },
+  {
+   "id": "e3",
+   "d": "c. 949",
+   "n": "Battle of Takkolam",
+   "b": "Rashtrakuta victory over Parantaka I’s forces.",
+   "td": "சுமார் 949",
+   "tn": "தக்கோலப் போர்",
+   "tb": "முதலாம் பராந்தகரின் படைகள் இராஷ்டிரகூடர்களிடம் தோல்வியடைந்தன."
+  },
+  {
+   "id": "e4",
+   "d": "985–1014",
+   "n": "Rajaraja I builds the imperial state",
+   "b": "Land survey, Sri Lanka and Maldives campaigns.",
+   "td": "985–1014",
+   "tn": "முதலாம் இராஜராஜன் பேரரசு நிர்வாகத்தை உருவாக்குகிறார்",
+   "tb": "நில அளவை, இலங்கை மற்றும் மாலத்தீவு படையெடுப்புகள்."
+  },
+  {
+   "id": "e5",
+   "d": "c. 1010",
+   "n": "Brihadisvara Temple completed",
+   "b": "Rajaraja I’s temple at Thanjavur.",
+   "td": "சுமார் 1010",
+   "tn": "பிரகதீஸ்வரர் கோயில் நிறைவு",
+   "tb": "தஞ்சையில் இராஜராஜனின் கோயில்."
+  },
+  {
+   "id": "e6",
+   "d": "c. 1021–22",
+   "n": "Rajendra I’s northern expedition",
+   "b": "Campaign to the Ganges; scale and aims are debated.",
+   "td": "சுமார் 1021–22",
+   "tn": "முதலாம் இராஜேந்திரனின் வடக்குப் படையெடுப்பு",
+   "tb": "கங்கை வரையிலான படையெடுப்பு; அதன் அளவும் நோக்கமும் விவாதத்திற்குரியவை."
+  },
+  {
+   "id": "e7",
+   "d": "c. 1025",
+   "n": "Raid on Srivijaya",
+   "b": "Overseas naval expedition to Southeast Asia.",
+   "td": "சுமார் 1025",
+   "tn": "ஸ்ரீவிஜயப் படையெடுப்பு",
+   "tb": "தென்கிழக்கு ஆசியாவுக்கு எதிரான கடற்படைப் பயணம்."
+  },
+  {
+   "id": "e8",
+   "d": "1054",
+   "n": "Battle of Koppam",
+   "b": "Rajadhiraja I dies fighting the Chalukyas.",
+   "td": "1054",
+   "tn": "கொப்பம் போர்",
+   "tb": "முதலாம் இராஜாதிராஜன் மேலைச் சாளுக்கியருடன் போரிட்டு உயிர்நீத்தார்."
+  },
+  {
+   "id": "e9",
+   "d": "1070",
+   "n": "Kulothunga I begins reign",
+   "b": "Chalukya-Chola line starts.",
+   "td": "1070",
+   "tn": "முதலாம் குலோத்துங்கரின் ஆட்சித் தொடக்கம்",
+   "tb": "சோழ–சாளுக்கிய மரபு தொடங்கியது."
+  },
+  {
+   "id": "e10",
+   "d": "12th c.",
+   "n": "Airavatesvara built at Darasuram",
+   "b": "Under Rajaraja II.",
+   "td": "12-ஆம் நூற்றாண்டு",
+   "tn": "தாராசுரத்தில் ஐராவதேசுவரர் கோயில்",
+   "tb": "இரண்டாம் இராஜராஜன் காலத்தில் கட்டப்பட்டது."
+  },
+  {
+   "id": "e11",
+   "d": "late 13th c.",
+   "n": "End of Chola political power",
+   "b": "Pandya and Hoysala pressure on Rajendra III.",
+   "td": "13-ஆம் நூற்றாண்டின் பிற்பகுதி",
+   "tn": "சோழ அரசியல் ஆற்றலின் முடிவு",
+   "tb": "மூன்றாம் இராஜேந்திரன் மீது பாண்டியர், ஹொய்சளர் அழுத்தம்."
+  }
+ ],
+ "battles": [
+  {
+   "id": "b1",
+   "n": "Takkolam (c. 949)",
+   "b": "Chola forces under Parantaka I were defeated by the Rashtrakutas. The defeat caused a temporary setback.",
+   "tn": "தக்கோலம் (சுமார் 949)",
+   "tb": "முதலாம் பராந்தகரின் சோழப் படைகள் இராஷ்டிரகூடர்களால் தோற்கடிக்கப்பட்டன; இது தற்காலிகப் பின்னடைவாக அமைந்தது."
+  },
+  {
+   "id": "b2",
+   "n": "Sri Lanka campaigns (late 10th–early 11th c.)",
+   "b": "Rajaraja I and Rajendra I campaigned in Sri Lanka. Rajendra I is recorded as taking the Sinhalese king Mahinda V, c. 1017. Extent of lasting control is debated.",
+   "tn": "இலங்கைப் படையெடுப்புகள் (10–11-ஆம் நூற்றாண்டு)",
+   "tb": "முதலாம் இராஜராஜனும் முதலாம் இராஜேந்திரனும் இலங்கையில் படையெடுத்தனர். நிலையான கட்டுப்பாட்டின் அளவு விவாதத்திற்குரியது."
+  },
+  {
+   "id": "b3",
+   "n": "Maldives (Rajaraja I)",
+   "b": "Rajaraja I’s inscriptions claim a naval conquest of the islands.",
+   "tn": "மாலத்தீவு (முதலாம் இராஜராஜன்)",
+   "tb": "தீவுகளைக் கடற்படையால் வென்றதாக இராஜராஜனின் கல்வெட்டுகள் கூறுகின்றன."
+  },
+  {
+   "id": "b4",
+   "n": "Ganges expedition (c. 1021–22)",
+   "b": "Rajendra I’s forces went north to the Ganges. Whether it was a conquest or a ceremonial raid is debated.",
+   "tn": "கங்கைப் படையெடுப்பு (சுமார் 1021–22)",
+   "tb": "முதலாம் இராஜேந்திரனின் படைகள் கங்கை வரை சென்றன. இது வெற்றியா அல்லது சடங்குப் படையெடுப்பா என்பது விவாதத்திற்குரியது."
+  },
+  {
+   "id": "b5",
+   "n": "Srivijaya raid (c. 1025)",
+   "b": "A naval expedition against Srivijaya in Southeast Asia, recorded in Chola inscriptions. Motives are debated.",
+   "tn": "ஸ்ரீவிஜயப் படையெடுப்பு (சுமார் 1025)",
+   "tb": "தென்கிழக்கு ஆசியாவின் ஸ்ரீவிஜயத்துக்கு எதிரான கடற்படைப் பயணம்; காரணங்கள் விவாதத்திற்குரியவை."
+  },
+  {
+   "id": "b6",
+   "n": "Koppam (1054)",
+   "b": "Rajadhiraja I died fighting the Western Chalukyas.",
+   "tn": "கொப்பம் (1054)",
+   "tb": "முதலாம் இராஜாதிராஜன் மேலைச் சாளுக்கியருடன் போரிட்டு உயிர்நீத்தார்."
+  }
+ ]
+}

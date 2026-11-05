@@ -1,0 +1,325 @@
+{
+ "kings": [
+  {
+   "id": "vijayalaya",
+   "n": "Vijayalaya Chola",
+   "r": "c. 848–871 (approximate)",
+   "s": "Founder of the medieval line",
+   "b": "Traditionally credited with taking Thanjavur, which became the Chola centre. Early dates rest on later inscriptions and are approximate.",
+   "tn": "விஜயாலய சோழன்",
+   "ctx": "Sangam-era Tamil literature already mentions the Cholas; the medieval line is usually dated from Vijayalaya, in a region contested by Pallavas and Pandyas.",
+   "ach": [
+    "According to later records, captured Thanjavur from the Muttaraiyar chiefs.",
+    "Laid the base for his successors’ expansion in the Kaveri delta."
+   ],
+   "ts": "இடைக்கால சோழ மரபின் நிறுவனர்",
+   "tctx": "சங்க கால தமிழ் இலக்கியத்திலேயே சோழர்கள் குறிப்பிடப்படுகின்றனர்; இடைக்கால மரபு பொதுவாக விஜயாலயனிடமிருந்து தொடங்குவதாகக் கணக்கிடப்படுகிறது. அக்காலத்தில் அப்பகுதிக்காகப் பல்லவரும் பாண்டியரும் போட்டியிட்டனர்.",
+   "tach": [
+    "பிற்கால பதிவுகளின்படி, முத்தரையர் தலைவர்களிடமிருந்து தஞ்சையைக் கைப்பற்றினார்.",
+    "காவிரி டெல்டாவில் தன் வாரிசுகளின் விரிவாக்கத்துக்கு அடித்தளமிட்டார்."
+   ],
+   "tb": "சோழர் மையமாக மாறிய தஞ்சையைக் கைப்பற்றியவர் என்று மரபு கூறுகிறது. ஆரம்பகால ஆண்டுகள் பிற்காலக் கல்வெட்டுகளை அடிப்படையாகக் கொண்டவை; அவை தோராயமானவை.",
+   "tr": "சுமார் 848–871 (தோராயம்)"
+  },
+  {
+   "id": "aditya",
+   "n": "Aditya I",
+   "r": "c. 871–907",
+   "s": "Consolidator of Chola power",
+   "b": "Defeated the Pallava ruler Aparajita c. 903, ending effective Pallava dominance in the Tondaimandalam region.",
+   "tn": "ஆதித்த சோழன்",
+   "ctx": "The Pallava kingdom was weakening under pressure from the Pandyas and Cholas.",
+   "ach": [
+    "Defeated the Pallava king Aparajita, c. 903.",
+    "Extended Chola rule over the Tondaimandalam region.",
+    "Traditionally credited with building Shiva temples along the Kaveri."
+   ],
+   "ts": "சோழ சக்தியை வலுப்படுத்தியவர்",
+   "tctx": "பாண்டியர், சோழர் ஆகியோரின் அழுத்தத்தால் பல்லவ அரசு வலுவிழந்து வந்தது.",
+   "tach": [
+    "பல்லவ மன்னன் அபராஜிதனை சுமார் 903-இல் வென்றார்.",
+    "தொண்டைமண்டலப் பகுதியில் சோழ ஆட்சியை விரிவுபடுத்தினார்.",
+    "காவிரிக்கரையில் சிவன் கோயில்களை எழுப்பியவர் என்று மரபு கூறுகிறது."
+   ],
+   "tb": "சுமார் 903-இல் பல்லவ மன்னன் அபராஜிதனை வென்று தொண்டைமண்டலத்தில் பல்லவ ஆதிக்கத்தை முடிவுக்குக் கொண்டுவந்தார்.",
+   "tr": "சுமார் 871–907"
+  },
+  {
+   "id": "parantaka1",
+   "n": "Parantaka I",
+   "r": "907–955",
+   "s": "Expansion and local government",
+   "b": "Took Madurai from the Pandyas. Suffered a major defeat to the Rashtrakutas at Takkolam c. 949. Uttaramerur inscriptions from his reign describe village assembly rules.",
+   "tn": "முதலாம் பராந்தக சோழன்",
+   "ctx": "A long reign of expansion against the Pandyas and Sri Lanka, followed by a reverse from the Rashtrakutas.",
+   "ach": [
+    "Captured Madurai from the Pandyas and took the title Maduraikonda.",
+    "Defeated at Takkolam, c. 949.",
+    "Uttaramerur inscriptions of his reign describe how village assemblies were constituted.",
+    "Traditionally credited with covering the Chidambaram temple roof with gold."
+   ],
+   "ts": "விரிவாக்கமும் உள்ளாட்சியும்",
+   "tctx": "பாண்டியர், இலங்கை ஆகியோருக்கு எதிரான விரிவாக்கத்துடன் கூடிய நீண்ட ஆட்சி; பின்னர் இராஷ்டிரகூடர்களிடம் தோல்வி.",
+   "tach": [
+    "பாண்டியரிடமிருந்து மதுரையைக் கைப்பற்றி மதுரைகொண்டான் என்ற பட்டம் பெற்றார்.",
+    "சுமார் 949-இல் தக்கோலத்தில் தோல்வியடைந்தார்.",
+    "இவரது ஆட்சியின் உத்தரமேரூர் கல்வெட்டுகள் ஊர்ச்சபைகள் அமைக்கப்பட்ட முறையை விவரிக்கின்றன.",
+    "சிதம்பரம் கோயில் கூரைக்குப் பொன் வேய்ந்தவர் என்று மரபு கூறுகிறது."
+   ],
+   "tb": "பாண்டியரிடமிருந்து மதுரையைக் கைப்பற்றினார். சுமார் 949-இல் தக்கோலத்தில் இராஷ்டிரகூடரிடம் பெரும் தோல்வியடைந்தார். இவரது ஆட்சியின் உத்தரமேரூர் கல்வெட்டுகள் ஊர்ச்சபை விதிகளை விவரிக்கின்றன.",
+   "tr": "907–955"
+  },
+  {
+   "id": "sundara",
+   "n": "Sundara Chola (Parantaka II)",
+   "r": "957–973",
+   "s": "Recovery after Takkolam",
+   "b": "Ruled in the period of recovery; his reign is linked with campaigns in the Pandya country and Sri Lanka. Details are debated.",
+   "tn": "சுந்தர சோழன்",
+   "ctx": "He ruled in the years after the Takkolam setback, when Chola power was recovering in the south.",
+   "ach": [
+    "Inscriptions record a victory over the Pandya king Vira Pandya.",
+    "His reign is linked with a campaign in Sri Lanka against forces aiding the Pandyas; results are debated.",
+    "Uttama Chola succeeded after the death of his son Aditya II; the circumstances of that death are debated."
+   ],
+   "ts": "தக்கோலத் தோல்விக்குப் பின் மீட்சி",
+   "tctx": "தக்கோலத் தோல்விக்குப் பின் தெற்கில் சோழ சக்தி மீண்டு வந்த காலத்தில் ஆட்சி செய்தார்.",
+   "tach": [
+    "பாண்டிய மன்னன் வீரபாண்டியனை வென்றதாகக் கல்வெட்டுகள் கூறுகின்றன.",
+    "பாண்டியருக்கு உதவிய படைகளுக்கு எதிரான இலங்கைப் படையெடுப்புடன் இவர் ஆட்சி தொடர்புடையது; முடிவுகள் விவாதத்திற்குரியவை.",
+    "மகன் இரண்டாம் ஆதித்தனின் மறைவுக்குப் பின் உத்தம சோழன் அரியணை ஏறினார்; அந்த மறைவின் சூழல் விவாதத்திற்குரியது."
+   ],
+   "tb": "சோழ சக்தி மீண்ட காலத்தில் ஆட்சி செய்தார்; இவரது ஆட்சி பாண்டிய நாடு, இலங்கை ஆகியவற்றில் நடந்த படையெடுப்புகளுடன் தொடர்புடையது. விவரங்கள் விவாதத்திற்குரியவை.",
+   "tr": "957–973"
+  },
+  {
+   "id": "rajaraja1",
+   "n": "Rajaraja Chola I",
+   "r": "985–1014",
+   "s": "Architect of the imperial state",
+   "b": "Expanded into Sri Lanka’s northern region and the Maldives, undertook land surveys, and built the Brihadisvara Temple at Thanjavur, completed c. 1010.",
+   "tn": "முதலாம் இராஜராஜ சோழன்",
+   "ctx": "He inherited a recovering kingdom after Sundara Chola and Uttama Chola.",
+   "ach": [
+    "Built the Brihadisvara Temple at Thanjavur, completed c. 1010.",
+    "Ordered a land revenue survey.",
+    "Campaigned in southern India and northern Sri Lanka, and claimed a naval conquest of the Maldives.",
+    "Temple inscriptions record large endowments."
+   ],
+   "ts": "பேரரசு ஆட்சியின் சிற்பி",
+   "tctx": "சுந்தர சோழன், உத்தம சோழன் ஆகியோருக்குப் பின் மீண்டு வரும் அரசை இராஜராஜன் பெற்றார்.",
+   "tach": [
+    "தஞ்சையில் பிரகதீஸ்வரர் கோயிலைக் கட்டினார்; அது சுமார் 1010-இல் நிறைவுற்றது.",
+    "நில வருவாய் அளவை நடத்த ஆணையிட்டார்.",
+    "தென்னிந்தியா, வடக்கு இலங்கை ஆகிய பகுதிகளில் படையெடுத்தார்; மாலத்தீவைக் கடற்படையால் வென்றதாகவும் கூறினார்.",
+    "கோயில் கல்வெட்டுகள் பெரும் கொடைகளைப் பதிவு செய்கின்றன."
+   ],
+   "tb": "வடக்கு இலங்கை, மாலத்தீவு ஆகியவற்றுக்குள் விரிவடைந்தார்; நில அளவைகளை நடத்தினார்; தஞ்சையில் பிரகதீஸ்வரர் கோயிலைக் கட்டினார் (சுமார் 1010-இல் நிறைவு).",
+   "tr": "985–1014"
+  },
+  {
+   "id": "rajendra1",
+   "n": "Rajendra Chola I",
+   "r": "1014–1044",
+   "s": "Ganges expedition and sea power",
+   "b": "Led a northern expedition to the Ganges c. 1021–22, raided Srivijaya c. 1025, and founded Gangaikonda Cholapuram. Scholars debate whether Srivijaya was raided for trade or prestige.",
+   "tn": "முதலாம் இராஜேந்திர சோழன்",
+   "ctx": "Rajendra was named heir before succeeding his father Rajaraja I.",
+   "ach": [
+    "Led a northern expedition to the Ganges, c. 1021–22.",
+    "Launched a naval expedition against Srivijaya, c. 1025.",
+    "Founded Gangaikonda Cholapuram and its temple.",
+    "Took the title Gangaikonda Chola."
+   ],
+   "ts": "கங்கைப் படையெடுப்பும் கடல் வலிமையும்",
+   "tctx": "தந்தை முதலாம் இராஜராஜனுக்குப் பின் அரியணை ஏறுவதற்கு முன்பே இராஜேந்திரன் இளவரசராக நியமிக்கப்பட்டிருந்தார்.",
+   "tach": [
+    "சுமார் 1021–22-இல் கங்கை வரை வடக்குப் படையெடுப்பை நடத்தினார்.",
+    "சுமார் 1025-இல் ஸ்ரீவிஜயத்துக்கு எதிரான கடற்படைப் பயணத்தை மேற்கொண்டார்.",
+    "கங்கைகொண்ட சோழபுரத்தையும் அதன் கோயிலையும் உருவாக்கினார்.",
+    "கங்கைகொண்ட சோழன் என்ற பட்டம் பெற்றார்."
+   ],
+   "tb": "சுமார் 1021–22-இல் கங்கை வரை படையெடுத்தார்; சுமார் 1025-இல் ஸ்ரீவிஜயத்தைத் தாக்கினார்; கங்கைகொண்ட சோழபுரத்தை நிறுவினார். ஸ்ரீவிஜயத் தாக்குதல் வணிகத்துக்காகவா, மதிப்புக்காகவா என்பதை அறிஞர்கள் விவாதிக்கின்றனர்.",
+   "tr": "1014–1044"
+  },
+  {
+   "id": "rajadhiraja1",
+   "n": "Rajadhiraja Chola I",
+   "r": "1044–1054",
+   "s": "Warrior king",
+   "b": "Fought the Western Chalukyas and died at the battle of Koppam in 1054.",
+   "tn": "முதலாம் ராஜாதிராஜ சோழன்",
+   "ctx": "His reign saw the Western Chalukya conflict intensify.",
+   "ach": [
+    "Campaigned against the Western Chalukyas; inscriptions claim Chola forces reached Kalyani.",
+    "Campaigned against Pandya and Sri Lankan rulers.",
+    "Died at the battle of Koppam, 1054."
+   ],
+   "ts": "வீரமிக்க அரசர்",
+   "tctx": "இவரது ஆட்சியில் மேலைச் சாளுக்கியருடனான மோதல் தீவிரமடைந்தது.",
+   "tach": [
+    "மேலைச் சாளுக்கியருடன் போரிட்டார்; சோழப் படைகள் கல்யாணி வரை சென்றதாகக் கல்வெட்டுகள் கூறுகின்றன.",
+    "பாண்டிய, இலங்கை மன்னர்களுக்கு எதிராகப் படையெடுத்தார்.",
+    "1054-இல் கொப்பம் போரில் உயிர்நீத்தார்."
+   ],
+   "tb": "மேலைச் சாளுக்கியருடன் போரிட்டு 1054-இல் கொப்பம் போரில் உயிர்நீத்தார்.",
+   "tr": "1044–1054"
+  },
+  {
+   "id": "virarajendra",
+   "n": "Virarajendra Chola",
+   "r": "1063–1070",
+   "s": "Chalukya wars",
+   "b": "Waged repeated wars against the Western Chalukyas. Succession after him was unstable.",
+   "tn": "வீரராஜேந்திர சோழன்",
+   "ctx": "His reign fell in a long Chola–Western Chalukya rivalry, and the succession after him was unsettled.",
+   "ach": [
+    "Inscriptions claim victories over the Western Chalukyas.",
+    "His successor Athirajendra’s short reign ended in 1070 amid unrest, which opened the way for Kulothunga I."
+   ],
+   "ts": "சாளுக்கியப் போர்கள்",
+   "tctx": "நீண்டகால சோழ–மேலைச் சாளுக்கியப் போட்டியின் காலத்தில் இவரது ஆட்சி அமைந்தது; இவருக்குப் பின் வாரிசுரிமை நிலையற்றதாக இருந்தது.",
+   "tach": [
+    "மேலைச் சாளுக்கியருக்கு எதிரான வெற்றிகளைக் கல்வெட்டுகள் கூறுகின்றன.",
+    "இவரது வாரிசு அதிராஜேந்திரனின் குறுகிய ஆட்சி 1070-இல் அமைதியின்மையில் முடிந்தது; அது முதலாம் குலோத்துங்கனுக்கு வழி திறந்தது."
+   ],
+   "tb": "மேலைச் சாளுக்கியருக்கு எதிராகத் தொடர்ந்து போரிட்டார். இவருக்குப் பின் வாரிசுரிமை நிலையற்றதாக இருந்தது.",
+   "tr": "1063–1070"
+  },
+  {
+   "id": "kulothunga1",
+   "n": "Kulothunga Chola I",
+   "r": "1070–1122",
+   "s": "Chalukya-Chola line",
+   "b": "United the Chola and Eastern Chalukya houses. Inscriptions mention a land survey in 1086 and the abolition of tolls, earning the title Sungam Tavirtta.",
+   "tn": "முதலாம் குலோத்துங்க சோழன்",
+   "ctx": "He was an Eastern Chalukya prince who took the Chola throne in 1070 after a period of unrest.",
+   "ach": [
+    "Joined the Eastern Chalukya and Chola royal houses; his mother Ammangadevi was Rajendra I’s daughter.",
+    "Inscriptions mention a land survey in 1086.",
+    "Known as Sungam Tavirtta, “abolisher of tolls”.",
+    "The poem Kalingattuparani celebrates a Kalinga campaign led by his general."
+   ],
+   "ts": "சோழ–சாளுக்கிய மரபு",
+   "tctx": "கிழக்குச் சாளுக்கிய இளவரசரான இவர் அமைதியின்மைக் காலத்துக்குப் பின் 1070-இல் சோழ அரியணை ஏறினார்.",
+   "tach": [
+    "கிழக்குச் சாளுக்கிய, சோழ அரச குடும்பங்களை இணைத்தார்; இவரது தாய் அம்மங்கதேவி முதலாம் இராஜேந்திரனின் மகள்.",
+    "1086-இல் நில அளவை நடந்ததாகக் கல்வெட்டுகள் கூறுகின்றன.",
+    "“சுங்கம் தவிர்த்த சோழன்” என்று அழைக்கப்பட்டார் (சுங்கத்தை நீக்கியவர்).",
+    "இவரது படைத்தலைவர் நடத்திய கலிங்கப் போரைக் கலிங்கத்துப்பரணி கொண்டாடுகிறது."
+   ],
+   "tb": "சோழ, கிழக்குச் சாளுக்கிய அரச குடும்பங்களை இணைத்தார். 1086-இல் நில அளவை நடந்ததாகவும், சுங்கம் நீக்கப்பட்டதாகவும் கல்வெட்டுகள் கூறுகின்றன; அதனால் சுங்கம் தவிர்த்த சோழன் என்று அழைக்கப்பட்டார்.",
+   "tr": "1070–1122"
+  },
+  {
+   "id": "vikrama",
+   "n": "Vikrama Chola",
+   "r": "1118–1135",
+   "s": "Later Chola ruler",
+   "b": "Ruled a kingdom that had lost ground in Sri Lanka and faced Chalukya pressure in Vengi. Patronised the Chidambaram temple.",
+   "tn": "விக்ரம சோழன்",
+   "ctx": "He governed Vengi as a prince before becoming king, in a period when the Chalukyas contested the region.",
+   "ach": [
+    "Served as Kulothunga I’s viceroy in Vengi before his accession.",
+    "According to Sastri, recovered Vengi after the Western Chalukya king Vikramaditya VI died.",
+    "The poet Ottakkuttan wrote the Vikrama Cholan Ula about him.",
+    "Inscriptions record gifts to the Chidambaram temple."
+   ],
+   "ts": "பிற்கால சோழ அரசர்",
+   "tctx": "அரசராவதற்கு முன் இவர் வேங்கியை ஆண்டார்; அக்காலத்தில் சாளுக்கியர் அப்பகுதிக்காகப் போட்டியிட்டனர்.",
+   "tach": [
+    "முடிசூடுவதற்கு முன் முதலாம் குலோத்துங்கனின் ஆளுநராக வேங்கியில் இருந்தார்.",
+    "சாஸ்திரியின் கூற்றுப்படி, மேலைச் சாளுக்கிய மன்னன் ஆறாம் விக்ரமாதித்தன் மறைந்த பின் வேங்கியை மீட்டார்.",
+    "ஒட்டக்கூத்தர் இவரைப் பற்றி விக்கிரம சோழன் உலா பாடினார்.",
+    "சிதம்பரம் கோயிலுக்கு வழங்கிய கொடைகளைக் கல்வெட்டுகள் பதிவு செய்கின்றன."
+   ],
+   "tb": "இலங்கையில் இழப்பையும் வேங்கியில் சாளுக்கிய அழுத்தத்தையும் சந்தித்த அரசை ஆண்டார். சிதம்பரம் கோயிலுக்கு ஆதரவளித்தார்.",
+   "tr": "1118–1135"
+  },
+  {
+   "id": "kulothunga2",
+   "n": "Kulothunga Chola II",
+   "r": "1133–1150",
+   "s": "Temple patron",
+   "b": "Associated with works at Chidambaram and with a flourishing of Tamil literature at court, including the poet Ottakkuttan.",
+   "tn": "இரண்டாம் குலோத்துங்க சோழன்",
+   "ctx": "The later Chola court was a centre of Tamil literature and temple patronage.",
+   "ach": [
+    "Ottakkuttan wrote the Kulothunga Cholan Ula during his reign.",
+    "The Periya Puranam by Sekkizhar is traditionally placed in his reign.",
+    "Associated with works at the Chidambaram temple; details of the Govindaraja shrine changes are disputed."
+   ],
+   "ts": "கோயில் மற்றும் இலக்கிய ஆதரவாளர்",
+   "tctx": "பிற்கால சோழ அரசவை தமிழ் இலக்கியத்துக்கும் கோயில் ஆதரவுக்கும் மையமாக இருந்தது.",
+   "tach": [
+    "இவரது ஆட்சியில் ஒட்டக்கூத்தர் குலோத்துங்க சோழன் உலா இயற்றினார்.",
+    "சேக்கிழாரின் பெரியபுராணம் மரபுப்படி இவரது ஆட்சியில் இயற்றப்பட்டதாகக் கருதப்படுகிறது.",
+    "சிதம்பரம் கோயில் பணிகளுடன் தொடர்புடையவர்; கோவிந்தராஜர் சன்னதி மாற்றங்கள் குறித்த விவரங்கள் முரண்பாடானவை."
+   ],
+   "tb": "சிதம்பரம் பணிகளுடனும், ஒட்டக்கூத்தர் உள்ளிட்டோர் வாழ்ந்த தமிழ் இலக்கிய மலர்ச்சியுடனும் தொடர்புடையவர்.",
+   "tr": "1133–1150"
+  },
+  {
+   "id": "rajaraja2",
+   "n": "Rajaraja Chola II",
+   "r": "1146–1173",
+   "s": "Darasuram builder",
+   "b": "Credited with the Airavatesvara Temple at Darasuram. The Pandyas grew stronger in this era.",
+   "tn": "இரண்டாம் இராஜராஜ சோழன்",
+   "ctx": "Chola power was by now past its peak, and the Pandyas were regaining strength.",
+   "ach": [
+    "Credited with building the Airavatesvara Temple at Darasuram.",
+    "The poet Ottakkuttan wrote the Rajarajan Ula in his honour."
+   ],
+   "ts": "தாராசுரம் கோயிலைக் கட்டியவர்",
+   "tctx": "இக்காலத்தில் சோழ சக்தி உச்சத்தைக் கடந்திருந்தது; பாண்டியர் மீண்டும் வலுப்பெற்று வந்தனர்.",
+   "tach": [
+    "தாராசுரம் ஐராவதேசுவரர் கோயிலைக் கட்டியவராகக் கருதப்படுகிறார்.",
+    "ஒட்டக்கூத்தர் இவரைப் போற்றி இராசராசன் உலா இயற்றினார்."
+   ],
+   "tb": "தாராசுரம் ஐராவதேசுவரர் கோயிலைக் கட்டியவராகக் கருதப்படுகிறார். இக்காலத்தில் பாண்டியர் வலுப்பெற்றனர்.",
+   "tr": "1146–1173"
+  },
+  {
+   "id": "rajendra3",
+   "n": "Rajendra Chola III",
+   "r": "c. 1246–1279",
+   "s": "Last Chola ruler",
+   "b": "Faced the rising Pandyas under Jatavarman Sundara Pandya and Hoysala interference. Chola political power ended in the late 13th century.",
+   "tn": "மூன்றாம் இராஜேந்திர சோழன்",
+   "ctx": "Rajendra III reigned as Pandya power rose under Jatavarman Sundara Pandya and the Hoysalas were active in the Tamil country.",
+   "ach": [
+    "Last ruler of the Chola line; his inscriptions are known until about 1279.",
+    "After him the Chola kingdom was absorbed by the Pandyas."
+   ],
+   "ts": "கடைசி சோழ அரசர்",
+   "tctx": "ஜடாவர்மன் சுந்தர பாண்டியன் தலைமையில் பாண்டிய சக்தி உயர்ந்தும், தமிழகத்தில் ஹொய்சளர் செயல்பட்டும் வந்த காலத்தில் மூன்றாம் இராஜேந்திரன் ஆட்சி செய்தார்.",
+   "tach": [
+    "சோழ மரபின் கடைசி அரசர்; இவரது கல்வெட்டுகள் சுமார் 1279 வரை காணப்படுகின்றன.",
+    "இவருக்குப் பின் சோழ அரசு பாண்டியரால் உள்வாங்கப்பட்டது."
+   ],
+   "tb": "ஜடாவர்மன் சுந்தர பாண்டியன் தலைமையில் எழுந்த பாண்டியரையும் ஹொய்சளர் தலையீட்டையும் எதிர்கொண்டார். சோழ அரசியல் ஆற்றல் 13-ஆம் நூற்றாண்டின் பிற்பகுதியில் முடிவுக்கு வந்தது.",
+   "tr": "சுமார் 1246–1279"
+  }
+ ],
+ "queens": [
+  [
+   "sembiyan",
+   "Sembiyan Mahadevi",
+   "10th century",
+   "Widow of Gandaraditya. Inscriptions record her endowments and her rebuilding of temples in the Kaveri region.",
+   "செம்பியன் மாதேவி",
+   "10-ஆம் நூற்றாண்டு",
+   "கண்டராதித்தரின் மனைவி (விதவை). அவரது கொடைகளையும் காவிரிப் பகுதியில் கோயில்களைப் புதுப்பித்ததையும் கல்வெட்டுகள் பதிவு செய்கின்றன."
+  ],
+  [
+   "kundavai",
+   "Kundavai Pirattiyar",
+   "10th–11th century",
+   "Elder sister of Rajaraja I. Inscriptions record her gifts to temples.",
+   "குந்தவை பிராட்டியார்",
+   "10–11-ஆம் நூற்றாண்டு",
+   "முதலாம் இராஜராஜனின் மூத்த சகோதரி. கோயில்களுக்கு அவர் வழங்கிய கொடைகளைக் கல்வெட்டுகள் பதிவு செய்கின்றன."
+  ]
+ ]
+}
